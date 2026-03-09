@@ -6,14 +6,14 @@ name                     : &name "Diana Daraselia"
 description              : &description "Chemical Engineer"
 url                      : "https://DianaDaraselia.github.io"
 baseurl                  : "" 
-repository               : "GulustanHeydarova/DianaDaraselia.github.io"
+repository               : "DianaDaraselia.github.io"
 
 author:
  
   avatar           : "profile.png"
   name             : "Diana Daraselia"
   pronouns         : "she/her"  
-  bio              : "Chemical Engineer, specializing in catalysis, biorefinery, hydrotreatment and sustainable hydroprocessing. Currently
+  bio              : "Chemical Engineer, specializing in catalysis, biorefinery, materials and sustainable hydroprocessing. Currently
 engaged in reactor performance evaluation, catalyst selection for silicon trapping, and process enhancement for spent oil
 hydrofinishing in refinery applications. Proficient in reaction engineering, process modeling, and advanced analytical
 techniques, including spectroscopy and chromatography. Strong background in sustainable energy solutions, with a data-
